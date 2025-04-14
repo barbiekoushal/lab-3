@@ -1,1 +1,1 @@
-# lab-3
+This file contains the practical of the lab 3
